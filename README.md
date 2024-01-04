@@ -1,4 +1,3 @@
-Snake Ladder game
 This is a Snake and Ladder desktop game developed using C++. 
 
 The Team Members of this project are:
